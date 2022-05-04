@@ -1,0 +1,260 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1240px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 228px;
+  height: 228px;
+  background-image: none;
+  margin: 60px auto 0 30px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 394px;
+  width: 394px;
+  background-image: url("images/Download.png");
+  background-position: 50% 50%;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -8px auto 0 120px;
+}
+
+.u-section-1 .u-image-2 {
+  height: 310px;
+  width: 310px;
+  background-image: url("images/bbbf863059663cc6b152bff638a4ca9cb1b4d5507f0da3f93806033067944aa89279c31bb2ebb44140d84316fb7fbac1f471e2971e802004c42359_1280.jpg");
+  background-position: 50% 50%;
+  margin: -64px auto 0 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-family: Ubuntu, sans-serif;
+  margin: -777px -1px 0 302px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 527px;
+  min-height: 485px;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+  margin: 226px 43px 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 40px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  font-weight: 300;
+  margin: 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-style: italic;
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none none solid;
+  font-style: italic;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: none;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+  margin: 28px auto 0 0;
+  padding: 11px 44px 11px 42px;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 147px;
+  height: 147px;
+  margin: 72px auto 60px 320px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1182px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 193px;
+    height: 193px;
+    margin-top: 15px;
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 588px;
+    width: 588px;
+    margin-top: 0;
+    margin-left: 30px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 273px;
+    width: 273px;
+    margin-top: -138px;
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -879px;
+    margin-left: 202px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 470px;
+    margin-top: 415px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 118px;
+    height: 118px;
+    margin-top: -92px;
+    margin-left: 196px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1397px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 112px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 21px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 229px;
+    width: 229px;
+    margin-top: -157px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.625rem;
+    margin-top: -906px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 446px;
+    margin-top: 628px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 30px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-top: -239px;
+    margin-left: 118px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1768px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 154px;
+    margin-left: 30px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 528px;
+    width: 528px;
+    margin-left: 120px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -89px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.5rem;
+    margin-top: -956px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 1043px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-top: -643px;
+    margin-right: 139px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1506px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 134px;
+    height: 134px;
+    margin-top: 140px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 317px;
+    height: 317px;
+    margin-top: 20px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 200px;
+    width: 200px;
+    margin-top: 59px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.75rem;
+    margin-top: -790px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 498px;
+    margin-top: 788px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 98px;
+    height: 98px;
+    margin-top: -630px;
+    margin-right: 72px;
+  }
+}
